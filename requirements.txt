@@ -1,0 +1,12 @@
+
+fastapi
+uvicorn
+sentence-transformers
+rank-bm25
+pandas
+chardet
+numpy
+scikit-learn
+nest-asyncio
+pyngrok
+uvicorn
